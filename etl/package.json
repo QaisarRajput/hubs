@@ -1,0 +1,13 @@
+{
+  "name": "etl",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "scrape": "node src/scrape.js"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.0",
+    "node-fetch": "^3.0.0",
+    "zod": "^3.0.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tax.hubs.dpdns.org",
+  "url": "https://tax.hubs.dpdns.org",
+  "title": "Tax Calculator - Income Tax",
+  "description": "Free income tax calculator with slab-wise breakdowns and yearly/monthly views.",
+  "favicon": "/assets/brand/favicon.ico",
+  "ogImage": "https://tax.hubs.dpdns.org/assets/brand/banner.svg",
+  "ogTitle": "Tax Calculator - Income Tax",
+  "ogDescription": "Free income tax calculator with slab-wise breakdowns and yearly/monthly views.",
+  "categories": [
+    "Finance"
+  ],
+  "featured": true,
+  "lastSyncedAt": "2026-06-28T21:46:21.716Z"
+}

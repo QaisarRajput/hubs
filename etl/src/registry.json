@@ -1,0 +1,15 @@
+[
+  {
+    "id": "tax.hubs.dpdns.org",
+    "categories": ["Finance"],
+    "featured": true
+  },
+  {
+    "id": "aiprompts.hubs.dpdns.org",
+    "categories": ["Image Tools"]
+  },
+  {
+    "id": "resume.hubs.dpdns.org",
+    "categories": ["Productivity"]
+  }
+]

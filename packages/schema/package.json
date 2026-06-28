@@ -1,0 +1,13 @@
+{
+  "name": "@hubs/schema",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p ../../tsconfig.base.json"
+  },
+  "dependencies": {
+    "zod": "^3.0.0"
+  }
+}
