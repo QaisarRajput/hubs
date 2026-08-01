@@ -9,7 +9,7 @@ A modern landing site and launcher for the `hubs.dpdns.org` network. This reposi
 - `data` — generated metadata and index files consumed by the web app
 - `content` — source blog and content files
 
-## What this repo does
+## What this repo does?
 
 `Hubs` is a static launcher website for a portfolio of utility subdomains. It:
 
