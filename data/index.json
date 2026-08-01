@@ -9,10 +9,12 @@
     "ogTitle": "Tax Calculator - Income Tax",
     "ogDescription": "Free income tax calculator with slab-wise breakdowns and yearly/monthly views.",
     "categories": [
-      "Finance"
+      "Finance",
+      "Tax",
+      "FinTech"
     ],
     "featured": true,
-    "lastSyncedAt": "2026-08-01T08:18:10.631Z"
+    "lastSyncedAt": "2026-08-01T12:10:06.822Z"
   },
   {
     "id": "aiprompts.hubs.dpdns.org",
@@ -24,9 +26,46 @@
     "ogTitle": "AI Prompts — Discover • Create • Inspire",
     "ogDescription": "The most fire AI image prompts on the internet. Browse, copy, and remix.",
     "categories": [
-      "Image Tools"
+      "Image Tools",
+      "Prompt Engineering",
+      "AI Art"
     ],
     "featured": false,
-    "lastSyncedAt": "2026-08-01T08:18:10.859Z"
+    "lastSyncedAt": "2026-08-01T12:10:06.988Z"
+  },
+  {
+    "id": "fairpay.hubs.dpdns.org",
+    "url": "https://fairpay.hubs.dpdns.org",
+    "title": "FairPay - Did You Actually Get a Raise?",
+    "description": "A personalized inflation-adjusted wage reality check.",
+    "favicon": "",
+    "ogImage": "https://fairpay.hubs.dpdns.org/opengraph-image?42a7e7bdefe61516",
+    "ogTitle": "FairPay - Did You Actually Get a Raise?",
+    "ogDescription": "A personalized inflation-adjusted wage reality check.",
+    "categories": [
+      "FinTech",
+      "Planner",
+      "Finance",
+      "Job"
+    ],
+    "featured": false,
+    "lastSyncedAt": "2026-08-01T12:10:07.565Z"
+  },
+  {
+    "id": "energysaver.hubs.dpdns.org",
+    "url": "https://energysaver.hubs.dpdns.org",
+    "title": "EnergySaver — Cheapest & Greenest Time to Run Your Appliances",
+    "description": "Find the cheapest, lowest-carbon hour to run your dryer, dishwasher, EV charger and more. Powered by live UK carbon intensity and Agile electricity prices.",
+    "favicon": "/icons/icon-192.png",
+    "ogImage": "https://energysaver.hubs.dpdns.org/og/home.png",
+    "ogTitle": "EnergySaver — Cheapest & Greenest Time to Run Your Appliances",
+    "ogDescription": "Find the cheapest, lowest-carbon hour to run your dryer, dishwasher, EV charger and more. Powered by live UK carbon intensity and Agile electricity prices.",
+    "categories": [
+      "Global Warming",
+      "Planner",
+      "Smart Home"
+    ],
+    "featured": false,
+    "lastSyncedAt": "2026-08-01T12:10:08.035Z"
   }
 ]

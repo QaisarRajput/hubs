@@ -8,8 +8,10 @@
   "ogTitle": "Tax Calculator - Income Tax",
   "ogDescription": "Free income tax calculator with slab-wise breakdowns and yearly/monthly views.",
   "categories": [
-    "Finance"
+    "Finance",
+    "Tax",
+    "FinTech"
   ],
   "featured": true,
-  "lastSyncedAt": "2026-08-01T08:18:10.631Z"
+  "lastSyncedAt": "2026-08-01T12:10:06.822Z"
 }

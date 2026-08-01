@@ -1,0 +1,17 @@
+{
+  "id": "energysaver.hubs.dpdns.org",
+  "url": "https://energysaver.hubs.dpdns.org",
+  "title": "EnergySaver — Cheapest & Greenest Time to Run Your Appliances",
+  "description": "Find the cheapest, lowest-carbon hour to run your dryer, dishwasher, EV charger and more. Powered by live UK carbon intensity and Agile electricity prices.",
+  "favicon": "/icons/icon-192.png",
+  "ogImage": "https://energysaver.hubs.dpdns.org/og/home.png",
+  "ogTitle": "EnergySaver — Cheapest & Greenest Time to Run Your Appliances",
+  "ogDescription": "Find the cheapest, lowest-carbon hour to run your dryer, dishwasher, EV charger and more. Powered by live UK carbon intensity and Agile electricity prices.",
+  "categories": [
+    "Global Warming",
+    "Planner",
+    "Smart Home"
+  ],
+  "featured": false,
+  "lastSyncedAt": "2026-08-01T12:10:08.035Z"
+}
