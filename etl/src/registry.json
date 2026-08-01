@@ -1,15 +1,23 @@
 [
   {
     "id": "tax.hubs.dpdns.org",
-    "categories": ["Finance"],
+    "categories": ["Finance", "Tax","FinTech"],
     "featured": true
   },
   {
     "id": "aiprompts.hubs.dpdns.org",
-    "categories": ["Image Tools"]
+    "categories": ["Image Tools", "Prompt Engineering", "AI Art"]
   },
   {
     "id": "resume.hubs.dpdns.org",
-    "categories": ["Productivity"]
+    "categories": ["Productivity", "Resume"]
+  },
+  {
+    "id": "fairpay.hubs.dpdns.org",
+    "categories": ["FinTech" , "Planner", "Finance", "Job"]
+  },
+  {
+    "id": "energysaver.hubs.dpdns.org",
+    "categories": ["Global Warming" , "Planner", "Smart Home"]
   }
 ]
